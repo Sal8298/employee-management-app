@@ -29,7 +29,7 @@ module.exports = function employeeMenu() {
         console.log(res.options);
         const { choices } = answer;
         if (choices === 'View All Employees') {
-            viewEmployees();
+            viewAllEmployees();
         }
         if (choices === 'View All Roles') {
             viewAllRoles();
@@ -62,3 +62,4 @@ module.exports = function employeeMenu() {
         if (error) throw error;
     });
 };
+
