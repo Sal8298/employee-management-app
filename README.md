@@ -23,7 +23,7 @@ Employee-management-app is an app that creates command line prompts that allow t
 
   ![employee-management-app](./public/images/prompt.png)
 
-  Here is a link to a demo: - 
+  Here is a link to a demo: - https://github.com/Sal8298/employee-management-app/blob/main/public/images/Demo.webm
 
 
   ## Credits
