@@ -170,3 +170,9 @@ function addDepartment(){
     });
   })
 };
+
+function Exit() {              // allows the user to exit and prompts a goodbye message
+  console.log('Sucessful Shutdown!');
+  connection.end();
+  process.exit();
+};

@@ -15,6 +15,14 @@ Employee-management-app is an app that creates command line prompts that allow t
   * Run 'npm i' in your terminal to install relavent packages.
   * Run 'node server.js' to connect to server.
 
+  - Here is a screenshot of the of the main menu in the command line:
+
+  ![employee-management-app](./public/images/menu.png)
+
+   - Here is a screenshot of choosing one of the options:
+
+  ![employee-management-app](./public/images/prompt.png)
+
   Here is a link to a demo: - 
 
 
